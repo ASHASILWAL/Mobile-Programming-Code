@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C994E8"
+    tools:context=".EFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Fragment E"
+        android:textColor="#A10404"
+        android:textSize="40dp"
+        android:layout_marginLeft="70dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Contact"
+        android:textColor="#040ED5"
+        android:textSize="40dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="100dp"
+        />
+
+</FrameLayout>
